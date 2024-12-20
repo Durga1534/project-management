@@ -1,0 +1,32 @@
+export const mockProjectsData = [
+    {
+        id: 1,
+        name: "Project Alpha",
+        description: "This is the first project.",
+        status: "In Progress",
+        teamMembers: ["Alice", "Bob"],
+        startDate: "2023-01-01",
+        endDate: "2023-12-31",
+        milestones: ["Kickoff", "Phase 1", "Phase 2"],
+    },
+    {
+        id: 2,
+        name: "Project Beta",
+        description: "This is the second project.",
+        status: "Completed",
+        teamMembers: ["Charlie", "David", "Batman", "Superman"],
+        startDate: "2022-01-01",
+        endDate: "2022-12-31",
+        milestones: ["Planning", "Execution", "Closure"],
+    },
+    {
+        id: 3,
+        name: "Project Gamma",
+        description: "This is the second project.",
+        status: "Pending",
+        teamMembers: ["Charlie", "David", "Alia", "Nidhi shah", "Bruce"],
+        startDate: "2022-03-03",
+        endDate: "2022-11-30",
+        milestones: ["Planning", "Execution", "Closure"],
+    },
+];
