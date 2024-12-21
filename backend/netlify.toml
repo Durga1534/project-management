@@ -1,8 +1,3 @@
 [build] 
    command = "npm run build" 
    publish = "dist"
-
-[context.production.environment]
-PORT=8080
-MONGO_URI=mongodb+srv://kondurupandu2434:Batman%4021@cluster0.fcvyj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=db7Vd5sEf0XGadBoyueyczENyukcwcJngBhR29fmMoE=
