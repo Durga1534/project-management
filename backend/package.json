@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js", 
-    "build": "npm install && npm run compile", 
+    "build": "npm run compile", 
     "install": "npm install", 
     "compile": "vite build"
   },
