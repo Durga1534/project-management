@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js", 
-    "build": "npm run compile", 
-    "install": "npm install", 
-    "compile": "vite build"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
