@@ -1,0 +1,21 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/api/(.*)",
+        "dest": "/index.js"
+      }
+    ],
+    "env": {
+      "JWT_SECRET": "db7Vd5sEf0XGadBoyueyczENyukcwcJngBhR29fmMoE=",
+      "MONGO_URI": "mongodb+srv://kondurupandu2434:Batman%4021@cluster0.fcvyj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "PORT": "8080"
+    }
+  }
+  
