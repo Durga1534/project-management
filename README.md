@@ -32,28 +32,30 @@ The **Project Management System** is designed to manage users, projects, teams, 
 
 ## Techstack used
 -**Frontend**: 
-   React.js: React is a powerful JavaScript library for building user interfaces. It allows developers to create reusable UI components, manage the application state efficiently, and build complex UIs with ease. React's virtual DOM improves performance by minimizing direct DOM manipulation.
 
-Tailwind CSS: Tailwind is a utility-first CSS framework that provides low-level utility classes for designing responsive and customizable interfaces. It speeds up development by offering a consistent design system and eliminating the need to write custom CSS.
+   **React.js**: React is a powerful JavaScript library for building user interfaces. It allows developers to create reusable UI components, manage the application state efficiently, and build complex UIs with ease. React's virtual DOM improves performance by minimizing direct DOM manipulation.
 
-DaisyUI: DaisyUI extends Tailwind CSS with pre-styled UI components, making it easier to design beautiful interfaces quickly. It provides a library of ready-to-use components, reducing the time spent on styling and ensuring a consistent look and feel.
+**Tailwind CSS**: Tailwind is a utility-first CSS framework that provides low-level utility classes for designing responsive and customizable interfaces. It speeds up development by offering a consistent design system and eliminating the need to write custom CSS.
 
-React Icons: React Icons allows developers to easily incorporate popular icon sets into their React applications. It provides a comprehensive collection of icons that can be customized and used across the application, enhancing the visual appeal and user experience.
+**DaisyUI**: DaisyUI extends Tailwind CSS with pre-styled UI components, making it easier to design beautiful interfaces quickly. It provides a library of ready-to-use components, reducing the time spent on styling and ensuring a consistent look and feel.
 
-Zustand: Zustand is a small, fast, and scalable state management library for React. It simplifies the management of the application's state by providing a minimalistic API and hooks, ensuring better performance and easier debugging.
+**React Icons**: React Icons allows developers to easily incorporate popular icon sets into their React applications. It provides a comprehensive collection of icons that can be customized and used across the application, enhancing the visual appeal and user experience.
+
+**Zustand**: Zustand is a small, fast, and scalable state management library for React. It simplifies the management of the application's state by providing a minimalistic API and hooks, ensuring better performance and easier debugging.
 
 React Chart.js: React Chart.jsis a wrapper around the Chart.jslibrary, enabling developers to create responsive and customizable charts within React applications. It supports various chart types, such as bar, line, pie, and radar charts, providing an effective way to visualize data.
 
 -**Backend**: 
-   Node.js: Node.jsis a JavaScript runtime built on Chrome's V8 engine. It allows developers to use JavaScript for server-side scripting, enabling the creation of scalable and high-performance applications. Its event-driven, non-blocking I/O model makes it ideal for building real-time applications.
 
-Express.js: Express.jsis a minimal and flexible Node.jsweb application framework that provides robust features for building web and mobile applications. It simplifies the process of handling HTTP requests, middleware management, and routing, making it easier to develop server-side logic.
+ **Node**.js: Node.jsis a JavaScript runtime built on Chrome's V8 engine. It allows developers to use JavaScript for server-side scripting, enabling the creation of scalable and high-performance applications. Its event-driven, non-blocking I/O model makes it ideal for building real-time applications.
 
-MongoDB: MongoDB is a NoSQL database that provides a flexible and scalable solution for data storage. Its document-oriented model allows developers to store data in JSON-like formats, making it easier to work with dynamic and unstructured data. MongoDB's scalability and high performance make it suitable for large-scale applications.
+**Express.js**: Express.jsis a minimal and flexible Node.jsweb application framework that provides robust features for building web and mobile applications. It simplifies the process of handling HTTP requests, middleware management, and routing, making it easier to develop server-side logic.
 
-Jest: Jest is a delightful JavaScript testing framework with a focus on simplicity and support for React applications. It provides an easy-to-use API for writing unit tests, integrated test runners, and code coverage reports. Jest ensures the reliability and stability of the codebase by enabling automated testing.
+**MongoDB**: MongoDB is a NoSQL database that provides a flexible and scalable solution for data storage. Its document-oriented model allows developers to store data in JSON-like formats, making it easier to work with dynamic and unstructured data. MongoDB's scalability and high performance make it suitable for large-scale applications.
 
-JWT (JSON Web Token): JWT is a secure method for transmitting information between parties as a JSON object. It is used for user authentication and authorization, providing a stateless and scalable solution for managing user sessions. JWT ensures the integrity and authenticity of the data being transmitted, enhancing security.
+**Jest**: Jest is a delightful JavaScript testing framework with a focus on simplicity and support for React applications. It provides an easy-to-use API for writing unit tests, integrated test runners, and code coverage reports. Jest ensures the reliability and stability of the codebase by enabling automated testing.
+
+**JWT** (JSON Web Token): JWT is a secure method for transmitting information between parties as a JSON object. It is used for user authentication and authorization, providing a stateless and scalable solution for managing user sessions. JWT ensures the integrity and authenticity of the data being transmitted, enhancing security.
 
 ## Installation
 
