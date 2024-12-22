@@ -31,7 +31,7 @@ The **Project Management System** is designed to manage users, projects, teams, 
 - **User Authentication**: Secure user login and registration using JWT.
 
 ## Techstack used
--**Frontend**: 
+##Frontend: 
 
    **React.js**: React is a powerful JavaScript library for building user interfaces. It allows developers to create reusable UI components, manage the application state efficiently, and build complex UIs with ease. React's virtual DOM improves performance by minimizing direct DOM manipulation.
 
@@ -43,13 +43,13 @@ The **Project Management System** is designed to manage users, projects, teams, 
 
 **Zustand**: Zustand is a small, fast, and scalable state management library for React. It simplifies the management of the application's state by providing a minimalistic API and hooks, ensuring better performance and easier debugging.
 
-React Chart.js: React Chart.jsis a wrapper around the Chart.jslibrary, enabling developers to create responsive and customizable charts within React applications. It supports various chart types, such as bar, line, pie, and radar charts, providing an effective way to visualize data.
+React Chart.js: React Chart.js is a wrapper around the Chart.jslibrary, enabling developers to create responsive and customizable charts within React applications. It supports various chart types, such as bar, line, pie, and radar charts, providing an effective way to visualize data.
 
--**Backend**: 
+##Backend: 
 
- **Node**.js: Node.jsis a JavaScript runtime built on Chrome's V8 engine. It allows developers to use JavaScript for server-side scripting, enabling the creation of scalable and high-performance applications. Its event-driven, non-blocking I/O model makes it ideal for building real-time applications.
+ **Node**.js: Node.js is a JavaScript runtime built on Chrome's V8 engine. It allows developers to use JavaScript for server-side scripting, enabling the creation of scalable and high-performance applications. Its event-driven, non-blocking I/O model makes it ideal for building real-time applications.
 
-**Express.js**: Express.jsis a minimal and flexible Node.jsweb application framework that provides robust features for building web and mobile applications. It simplifies the process of handling HTTP requests, middleware management, and routing, making it easier to develop server-side logic.
+**Express.js**: Express.js is a minimal and flexible Node.jsweb application framework that provides robust features for building web and mobile applications. It simplifies the process of handling HTTP requests, middleware management, and routing, making it easier to develop server-side logic.
 
 **MongoDB**: MongoDB is a NoSQL database that provides a flexible and scalable solution for data storage. Its document-oriented model allows developers to store data in JSON-like formats, making it easier to work with dynamic and unstructured data. MongoDB's scalability and high performance make it suitable for large-scale applications.
 
