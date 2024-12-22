@@ -9,11 +9,12 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
+- [Screenshots](#screenshots)
 - [Environment Variables](#environment-variables)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Screenshots](#screenshots)
+
 
 ## Introduction
 
@@ -75,6 +76,7 @@ Detailed API documentation:
       ]
     }
     ```
+    
 
 ## Screenshots
 
