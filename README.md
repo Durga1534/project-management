@@ -122,19 +122,19 @@ For any questions or feedback, feel free to contact:
 ![Homepage](frontend/screenshots/Homepage-desktop.png)
 
 ### Team Management
-![Team Management](frontend/screenshots/TeamPage-desktop.png)
+![Team Management](frontend/screenshots/Teams-desktop.png)
 
 ### Task Management
-![Task Management](screenshots/task-management.png)
+![Task Management](frontend/screenshots/Tasks-desktop.png)
 
 ### Project Management
-![Project Management](screenshots/project-management.png)
+![Project Management](frontend/screenshots/Projects-desktop.png)
 
 ### Dashboard Page
-![Dashboard Page](screenshots/dashboard-page.png)
+![Dashboard Page](frontend/screenshots/Dashboard-desktop.png)
 
-### User Management
-![User Management](screenshots/user-management.png)
+### Signup page
+![Signup Page](frontend/screenshots/Signup-desktop.png)
 
-### User Authentication
-![User Authentication](screenshots/user-authentication.png)
+### Login Page
+![Login Page](frontend/screenshots/Login-desktop.png)
