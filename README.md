@@ -76,6 +76,30 @@ Detailed API documentation:
     }
     ```
 
+## Screenshots
+
+### Homepage
+![Homepage](frontend/screenshots/Homepage-desktop.png)
+
+### Team Management
+![Team Management](frontend/screenshots/Teams-desktop.png)
+
+### Task Management
+![Task Management](frontend/screenshots/Tasks-desktop.png)
+
+### Project Management
+![Project Management](frontend/screenshots/Projects-desktop.png)
+
+### Dashboard Page
+![Dashboard Page](frontend/screenshots/Dashboard-desktop.png)
+
+### Signup page
+![Signup Page](frontend/screenshots/Signup-desktop.png)
+
+### Login Page
+![Login Page](frontend/screenshots/Login-desktop.png)
+
+
 ## Environment Variables
 
 List of required environment variables:
