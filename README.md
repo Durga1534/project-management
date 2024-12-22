@@ -1,7 +1,7 @@
 # Project Management System
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/github/workflow/status/yourusername/your-repo-name/Build)
+![Build Status](https://img.shields.io/github/actions/workflow/status/Durga1534/project-management/build.yml)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,53 +13,57 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Screenshots](#screenshots)
 
-#Introduction
+## Introduction
 
-This is a Project-Management-System which is used for managing users, projects, teams and tasks. It aims to provide seamless experience for users across the devices.
+The **Project Management System** is designed to manage users, projects, teams, and tasks efficiently. It aims to provide a seamless experience for users across various devices.
 
 ## Features
-List some key features of your project:
-- Team mananagement: Create and manage teams, assign roles and responsibilities.
-- Task Management: Create, assign, track and update tasks.
-- Project Management: Manage project details, timelines and milestones.
-- Dashboard page: A comphrensive dashboard overview and analytics.
-- User management: Manage user profiles and roles.
-- User Authentication: Secure user signup and login registration using JWT.
+
+- **Team Management**: Create and manage teams, assign roles and responsibilities.
+- **Task Management**: Create, assign, track, and update tasks.
+- **Project Management**: Manage project details, timelines, and milestones.
+- **Dashboard Page**: A comprehensive dashboard for overview and analytics.
+- **User Management**: Manage user profiles, roles, and permissions.
+- **User Authentication**: Secure user login and registration using JWT.
 
 ## Installation
-Step-by-step instructions on how to set up the project locally:
 
-1. Clone the repository:
+Step-by-step instructions to set up the project locally:
+
+1. **Clone the Repository**:
     ```bash
     git clone https://github.com/Durga1534/project-management.git
     ```
-2. Navigate to the project directory:
+2. **Navigate to the Project Directory**:
     ```bash
-    cd your-project-management
+    cd project-management
     ```
-3. Install dependencies:
+3. **Install Dependencies**:
     ```bash
     npm install
     ```
 
 ## Usage
-Instructions on how to run and use the project:
 
-1. Start the development server:
+Instructions to run and use the project:
+
+1. **Start the Development Server**:
     ```bash
     npm run dev
     ```
-2. Open your browser and navigate to `http://localhost:8080`.
+2. **Open Your Browser** and navigate to `http://localhost:8080`.
 
 ## API Documentation
+
 Detailed API documentation:
 
 ### Example Endpoint
 - **URL**: `/api/users`
 - **Method**: `GET`
-- **Description**: Retrieves user details with username, mail and Role .
-- **Response**: 
+- **Description**: Retrieves user details with username, email, and role.
+- **Response**:
     ```json
     {
       "data": [
@@ -67,47 +71,70 @@ Detailed API documentation:
           "username": "exampleUser",
           "email": "example@mail.com",
           "role": "admin"
-       }
-    ]
-  }
+        }
+      ]
+    }
     ```
 
 ## Environment Variables
-List the environment variables required for the project:
+
+List of required environment variables:
 
 | Variable       | Description                       |
 |----------------|-----------------------------------|
-| `VITE_API_URL` | URL of backend API            |
+| `VITE_API_URL` | URL of the backend API            |
 | `JWT_SECRET`   | Secret key for JWT authentication |
 | `MONGO_URI`    | MongoDB connection string         |
 
 ## Contributing
+
 Guidelines for contributing to the project:
 
-1. Fork the repository.
-2. Create a new branch:
+1. **Fork the Repository**.
+2. **Create a New Branch**:
     ```bash
     git checkout -b feature/your-feature-name
     ```
-3. Make your changes and commit them:
+3. **Make Your Changes and Commit Them**:
     ```bash
     git commit -m "Add your feature"
     ```
-4. Push to the branch:
+4. **Push to the Branch**:
     ```bash
     git push origin feature/your-feature-name
     ```
-5. Open a pull request.
+5. **Open a Pull Request**.
 
 ## License
+
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
+
 For any questions or feedback, feel free to contact:
 - **Name**: Durga Prasad
 - **Email**: kondurudurgaprasad.2@gmail.com
 - **GitHub**: [Durga1534](https://github.com/Durga1534)
 
-#Screenshots
-#Homepage
+## Screenshots
 
+### Homepage
+![Homepage](frontend/screenshots/Homepage-desktop.png)
+
+### Team Management
+![Team Management](frontend/screenshots/TeamPage-desktop.png)
+
+### Task Management
+![Task Management](screenshots/task-management.png)
+
+### Project Management
+![Project Management](screenshots/project-management.png)
+
+### Dashboard Page
+![Dashboard Page](screenshots/dashboard-page.png)
+
+### User Management
+![User Management](screenshots/user-management.png)
+
+### User Authentication
+![User Authentication](screenshots/user-authentication.png)
