@@ -5,12 +5,12 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Screenshots](#screenshots)
 - [Techstack](#techstack)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
 - [Environment Variables](#environment-variables)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,6 +29,29 @@ The **Project Management System** is designed to manage users, projects, teams, 
 - **Dashboard Page**: A comprehensive dashboard for overview and analytics.
 - **User Management**: Manage user profiles, roles, and permissions.
 - **User Authentication**: Secure user login and registration using JWT.
+
+  ## Screenshots
+
+### Homepage
+![Homepage](frontend/screenshots/Homepage-desktop.png)
+
+### Team Management
+![Team Management](frontend/screenshots/Teams-desktop.png)
+
+### Task Management
+![Task Management](frontend/screenshots/Tasks-desktop.png)
+
+### Project Management
+![Project Management](frontend/screenshots/Projects-desktop.png)
+
+### Dashboard Page
+![Dashboard Page](frontend/screenshots/Dashboard-desktop.png)
+
+### Signup page
+![Signup Page](frontend/screenshots/Signup-desktop.png)
+
+### Login Page
+![Login Page](frontend/screenshots/Login-desktop.png)
 
 ## Techstack used
 ##Frontend: 
@@ -104,32 +127,7 @@ Detailed API documentation:
       ]
     }
     ```
-    
-
-## Screenshots
-
-### Homepage
-![Homepage](frontend/screenshots/Homepage-desktop.png)
-
-### Team Management
-![Team Management](frontend/screenshots/Teams-desktop.png)
-
-### Task Management
-![Task Management](frontend/screenshots/Tasks-desktop.png)
-
-### Project Management
-![Project Management](frontend/screenshots/Projects-desktop.png)
-
-### Dashboard Page
-![Dashboard Page](frontend/screenshots/Dashboard-desktop.png)
-
-### Signup page
-![Signup Page](frontend/screenshots/Signup-desktop.png)
-
-### Login Page
-![Login Page](frontend/screenshots/Login-desktop.png)
-
-
+  
 ## Environment Variables
 
 List of required environment variables:
