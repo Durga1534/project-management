@@ -30,7 +30,7 @@ The **Project Management System** is designed to manage users, projects, teams, 
 - **User Management**: Manage user profiles, roles, and permissions.
 - **User Authentication**: Secure user login and registration using JWT.
 
-  ## Screenshots
+## Screenshots
 
 ### Homepage
 ![Homepage](frontend/screenshots/Homepage-desktop.png)
